@@ -1,0 +1,20 @@
+{
+    "editor.fontSize": 14,
+    "workbench.editor.enablePreview": false,
+    "workbench.colorTheme": "Default Light Modern",
+    "terminal.integrated.inheritEnv": false,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableCommitSigning": true,
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.renderWhitespace": "all",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": true,
+        "scminput": false
+    }
+
+}
